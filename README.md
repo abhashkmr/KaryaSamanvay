@@ -4,13 +4,13 @@ KaryaSamanvay(कार्य समन्वय) is a powerful task management 
 
 ## Features
 
-- **Intuitive Interface**: TaskSync Pro offers a user-friendly interface for efficient task management and collaboration.
+- **Intuitive Interface**: It offers a user-friendly interface for efficient task management and collaboration.
 
 - **Real-time Collaboration**: Collaborate seamlessly with team members in real-time, ensuring everyone stays on the same page.
 
-- **Serverless Architecture**: Leveraging the Serverless Stack (SST) on AWS, TaskSync Pro ensures optimal scalability and cost-effectiveness.
+- **Serverless Architecture**: Leveraging the Serverless Stack (SST) on AWS, it ensures optimal scalability and cost-effectiveness.
 
-- **Supabase Database Integration**: Utilizing Supabase as the database, TaskSync Pro ensures robust data storage and retrieval.
+- **Supabase Database Integration**: Utilizing Supabase as the database, it ensures robust data storage and retrieval.
 
 ## Tech Stack
 
